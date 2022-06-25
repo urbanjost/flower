@@ -1,4 +1,4 @@
-### fpm-tools : flower
+### fpm-tools : [flower](https://urbanjost.github.io/flower/)
 
 Build flower(1) using fpm(1):
 ```bash
