@@ -3,6 +3,7 @@
 Build flower(1) using fpm(1):
 ```bash
 git clone https://github.com/urbanjost/flower
+cd flower
 fpm install
 flower --help
 ```
