@@ -1,4 +1,4 @@
-### fpm-tools : [flower](https://urbanjost.github.io/flower/)
+### [fpm-tools](https://github.com/search?q="fpm-tools"%20in:topic%20language:fortran):[flower](https://urbanjost.github.io/flower/flower.1.html)
 
 Build flower(1) using fpm(1):
 ```bash
